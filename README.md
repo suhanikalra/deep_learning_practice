@@ -18,3 +18,8 @@ Welcome to my repository of machine learning projects! Here you'll find a collec
    - **Description**: A comparison of ANN and CNN models on the CIFAR-10 dataset to assess improvements in accuracy.
    - **Technologies**: Python, TensorFlow, Keras, NumPy, Matplotlib
    - **Key Features**: Data preprocessing, training of ANN and CNN models, performance evaluation with classification reports.
+
+4. **Flower Classification with CNN and Data Augmentation**  
+   - **Description**: This project focuses on classifying flower images into five categories (roses, daisies, dandelions, sunflowers, and tulips) using a Convolutional Neural Network (CNN) with data augmentation techniques to improve the model's generalization capability.
+   - **Technologies**: Python, TensorFlow, Keras, NumPy, Matplotlib, OpenCV, PIL
+   - **Key Features**: Data loading and preprocessing, data augmentation, model architecture design, training, and evaluation. Visualizations of training process, including accuracy and loss curves for both training and validation sets.
